@@ -109,4 +109,6 @@ void loop()
 [My image](<img width="578" alt="Screenshot 2024-02-15 110224" src="https://github.com/DurgaV240106/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870878/b95e2214-ca8b-4cde-bfef-a6900da9fdaa">
 <img width="580" alt="Screenshot 2024-02-15 115807" src="https://github.com/DurgaV240106/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870878/cd8f4338-c322-4fcf-ac7b-8617a440cf6b">
 
+## Result:
+Thus the  interface a digital input (push button) and blink and LED upon activation excuted is successfully.
 
